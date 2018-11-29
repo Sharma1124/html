@@ -1,0 +1,39 @@
+<!Doctype html>
+
+<Html>
+<head>
+<title> learn how to code htlm here</title>
+</head>
+
+<body>
+<h1> this is H1</h1>
+<h2> this is H2</h2>
+<h3> this is h3</h3>
+<h4> this is h4</h4>
+<h5> this is h5 <h5>
+<h6> this is h6 <h6>
+
+<p>
+
+Hey folks, lets start learning Html5. we will learn how to code in html to build a webpage step by step.
+<center> <img src="C:\Users\sonu.sharma\Desktop\st.jpg" alt="human light" height="140" width="210"> </center>
+<button> <a href="www.xyz.com"> click here </a> </button>
+
+<ul>
+<li> VIN eretail> </li>
+<li> VIN MDM </li>
+</ul>
+
+<ol>
+<li> express </li>
+<li> pim </li>
+</ol>
+
+</p>
+
+</body>
+</html>
+
+
+
+
